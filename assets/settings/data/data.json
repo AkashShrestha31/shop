@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Service Charges",
+      "subtitle": "11 Service Charges",
+      "image": "assets/home/billing.svg"
+    },
+
+    {
+      "id": "2",
+      "title": "Brands",
+      "subtitle": "11 Brands",
+      "image": "assets/home/brand.svg"
+    },
+    {
+      "id": "3",
+      "title": "Category",
+      "subtitle": "11 Category",
+      "image": "assets/home/categories.svg"
+    },
+    {
+      "id": "4",
+      "title": "Attributes",
+      "subtitle": "11 Attributes",
+      "image": "assets/home/tag.svg"
+    },   {
+      "id": "5",
+      "title": "Products",
+      "subtitle": "11 Products",
+      "image": "assets/home/wholeseller.svg"
+    }
+  ]
+}

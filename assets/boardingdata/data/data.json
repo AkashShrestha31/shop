@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Manage your Goals",
+      "description": "Make your list easily and quickly to facilate your work",
+      "image": "assets/boardingdata/images/first-screen.svg"
+    },
+    {
+      "title": "Easy to use mobile POS",
+      "description": "Make your list easily and quickly to facilate your work",
+      "image": "assets/boardingdata/images/second-screen.svg"
+    },
+    {
+      "title": "Do the list for easily",
+      "description": "Make your list easily and quickly to facilate your work",
+      "image": "assets/boardingdata/images/third-screen.svg"
+    }
+  ]
+}
